@@ -22,6 +22,8 @@ Trenutno 6 chatbotova kreirano za UNFPA.
 
 - Game development: https://youtu.be/wW5XZ2KoTl0
 
+- ArtStation - Dajak boat ( Banja Luka ): https://www.artstation.com/artwork/W2OJmX
+
 - YouTube kanal: https://www.youtube.com/channel/UC7gAGuzWMx77nx_FmWCckxA
 
 ( JOŠ UVIJEK U IZRADI ) 
