@@ -24,4 +24,5 @@ Trenutno 6 chatbotova kreirano za UNFPA.
 
 - YouTube kanal: https://www.youtube.com/channel/UC7gAGuzWMx77nx_FmWCckxA
 
-Trenutno radim na web i mobilnoj aplikaciji za veterinarske stanice. Projekat je podržan i od strane ministarstva. Cilj je da veterinari putem mobilne aplikacije mogu unijeti informacije na terentu (nalaz, dijagnozu) i da te informacije budu sacuvane u bazu iz te baze informacije se dijele na web stranicu odakle vet. stanica može preuzeti unaprijed generisane dokumente koji su potrebni za inspekciju itd. Tehnologiju koju koristim je Flutter, PHP, HTML, CSS, MYSQL!
+( JOŠ UVIJEK U IZRADI ) 
+Trenutno radim na web i mobilnoj aplikaciji za veterinarske stanice. Projekat je podržan i od strane ministarstva. Cilj je da veterinari putem mobilne aplikacije mogu unijeti informacije na terentu (nalaz, dijagnozu) i da te informacije budu sacuvane u bazu iz te baze informacije se dijele na web stranicu odakle vet. stanica može preuzeti unaprijed generisane dokumente koji su potrebni za inspekciju itd. Tehnologiju koju koristim je Flutter, PHP, HTML, CSS, MYSQL! 
