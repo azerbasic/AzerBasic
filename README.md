@@ -14,7 +14,7 @@ Trenutno 6 chatbotova kreirano za UNFPA.
 
 - Izrada i dizajn BH suvenira: https://bhsuvenir.ba/
 
-- Kreativne zvjezdice:  https://kreativnezvjezdice.ba/
+- Kreativne zvjezdice:  https://kreativnezvjezdice.ba/ ( html, css, js, php ) 
 
 - All For Truck Web Shop : https://allfortruck.com/  ( Web shop za firmu koja radi LED reklame, presvlake itd za kamione, urađen je i sistem za custom product tj. da kupac uređuje  svoj predmet. ( wordpress i woocomerce ) 
 
