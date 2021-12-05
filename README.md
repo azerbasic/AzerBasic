@@ -16,9 +16,9 @@ Trenutno 6 chatbotova kreirano za UNFPA.
 
 - Kreativne zvjezdice:  https://kreativnezvjezdice.ba/
 
-- All For Truck Web Shop : https://allfortruck.com/  ( Web shop za firmu koja radi LED reklame, presvlake itd za kamione, urađen je i sistem za custom product tj. da kupac uređuje  svoj predmet.
+- All For Truck Web Shop : https://allfortruck.com/  ( Web shop za firmu koja radi LED reklame, presvlake itd za kamione, urađen je i sistem za custom product tj. da kupac uređuje  svoj predmet. ( wordpress i woocomerce ) 
 
-- Web stranica za produkciju 1minut: http://1minut.ba/
+- Web stranica za produkciju 1minut: http://1minut.ba/ ( wordpress) 
 
 - Game development: https://youtu.be/wW5XZ2KoTl0
 
