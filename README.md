@@ -11,7 +11,7 @@ I'm interested in building something awesome with code and automate tasks with c
 PHP, .NET C#, Flutter, MySQL, JavaScript,  Unity, Unreal Engine, Adobe Photoshop, CorelDraw
 
 
-- <b>C# programming language on the .NET platform application </b>for the famous BiH youtuber (Nedim Lepic, NTeam), the application is developed for the game GTA 5, where the application checks whether the user has a 'cheat'. The application edits and deletes windows files, ie. chace file from the game itself. The application is designed to be a Launcher and to successfully hide the IP address from the server to prevent DDOS attacks.
+- Windows application for the famous BiH youtuber (Nedim Lepic, NTeam), the application is developed for the game GTA 5, where the application checks whether the user has a 'cheat'. The application edits and deletes windows files, ie. chace file from the game itself. The application is designed to be a Launcher and to successfully hide the IP address from the server to prevent DDOS attacks. <b>C# programming language on the .NET platform </b>
 
 - <b>Website for an online concert of Helem Nejse. This app is made for RedBull BiH.</b> The site is designed for the user to enter the code from the RedBull can and get a ticket for a virtual concert. Also the user has to log in with his steam account to get his data as the concert will be held on GTA 5 server.
 </b>Technologies used: PHP, MYSQL, HTML</b>
