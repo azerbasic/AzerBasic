@@ -1,4 +1,4 @@
-About me:
+👋  About me: 
 
 
 Hey! I'm <b> Azer Bašić</b>. A self-taught developer with an interest in Computer Science. 
@@ -16,7 +16,9 @@ I'm interested in building something awesome with code and automate tasks with c
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
+<img align="left" alt="medium" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+&nbsp;
+
 
 - Windows application for the famous BiH youtuber (Nedim Lepic, NTeam), the application is developed for the game GTA 5, where the application checks whether the user has a 'cheat'. The application edits and deletes windows files, ie. chace file from the game itself. The application is designed to be a Launcher and to successfully hide the IP address from the server to prevent DDOS attacks. <b>C# programming language on the .NET platform </b>
 
@@ -58,5 +60,5 @@ Technologies used: PHP, Viber rest api
 
 - ArtStation - Dajak boat ( Banja Luka ): https://www.artstation.com/artwork/W2OJmX
 
-- My YouTube: https://www.youtube.com/channel/UC7gAGuzWMx77nx_FmWCckxA
-
+[![name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7gAGuzWMx77nx_FmWCckxA)
+[![name](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/azer.basic.35/)
