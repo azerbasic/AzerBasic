@@ -3,13 +3,12 @@ About me:
 Hey! I'm <b> Azer Bašić</b>. A self-taught developer with an interest in Computer Science. 
 I've been close to a computer since an early age, and been passionate about it ever since.
 
-I really liked to make game servers script and modes back in 2010, and from that, I explored how to code myself, fast-forward to today, I do programming in various languages and technologies, and had the privilege to worked projects for UNFPA, RedBull and much more.
-I'm interested in building something awesome with code and automate tasks with code, currently focused on Web & Mobile Development. Back-end development is more of my thing, still brushing up my designs skills. I'm usually enthusiastic about learning new tech and figuring how things work.
+I really liked to make game servers scripts and modes back in 2010, and from that, I explored how to code myself, fast-forward to today, I do programming in various languages and technologies, and had the privilege to work on projects for UNFPA, RedBull and much more.
+
+I'm interested in building something awesome with code and automate tasks with code. I'm usually enthusiastic about learning new tech and figuring how things work. I really love to solve problems.
 
 <b>TECHNICAL SKILLS: </b>
-PHP, .NET C#, Flutter, MySQL, JavaScript,  Unity, Unreal Engine, Adobe Photoshop, CorelDraw,
-
-
+PHP, .NET C#, Flutter, MySQL, JavaScript,  Unity, Unreal Engine, Adobe Photoshop, CorelDraw
 
 
 - <b>C# programming language on the .NET platform application </b>for the famous BiH youtuber (Nedim Lepic, NTeam), the application is developed for the game GTA 5, where the application checks whether the user has a 'cheat'. The application edits and deletes windows files, ie. chace file from the game itself. The application is designed to be a Launcher and to successfully hide the IP address from the server to prevent DDOS attacks.
