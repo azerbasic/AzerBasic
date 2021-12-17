@@ -1,5 +1,6 @@
 About me:
-Hey! I'm Azer Bašić. A self-taught developer with an interest in Computer Science. 
+
+Hey! I'm <b> Azer Bašić</b>. A self-taught developer with an interest in Computer Science. 
 I've been close to a computer since an early age, and been passionate about it ever since.
 
 I really liked to make game servers script and modes back in 2010, and from that, I explored how to code myself, fast-forward to today, I do programming in various languages and technologies, and had the privilege to worked projects for UNFPA, RedBull and much more.
@@ -20,9 +21,10 @@ Flutter, MySQL, C, C++, JavaScript, PHP, .NET C#, Dart, R
 - <b>Web and mobile app for veterinary stations.</b> The project is also supported by the Federal Ministry. The goal is for veterinarians to enter information on the field (finding, diagnosis) via a mobile application and that informations are stored in the database. From that database information is shared on the website from where the vet. station can retrieve pre-generated documents required for inspection, etc.
 <b>Technologies used: Flutter - Dart, PHP, HTML, CSS, MYSQL</b>
 
--<b> Wordpress custom plugin </b>for searching stores in a radius selected by the user with information about Country,State and ZIP/Postal code. The plugin uses google map api for geocoding.
+- <b> Wordpress custom plugin </b>for searching stores in a radius selected by the user with information about Country,State and ZIP/Postal code. The plugin uses google map api for geocoding.
 This code for plugin is available in a folder.
 <b>Technologies used: PHP Object-Oriented Programming (OOP) for WordPress, JavaScript, Google Maps API</b>
+
 
 <b>Augmented Reality Application:</b>
 - https://youtu.be/HgkdjEKDaCo
