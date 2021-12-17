@@ -1,5 +1,6 @@
 About me:
 
+
 Hey! I'm <b> Azer Bašić</b>. A self-taught developer with an interest in Computer Science. 
 I've been close to a computer since an early age, and been passionate about it ever since.
 
@@ -7,9 +8,15 @@ I really liked to make game servers scripts and modes back in 2010, and from tha
 
 I'm interested in building something awesome with code and automate tasks with code. I'm usually enthusiastic about learning new tech and figuring how things work. I really love to solve problems.
 
-<b>TECHNICAL SKILLS: </b>
-PHP, .NET C#, Flutter, MySQL, JavaScript,  Unity, Unreal Engine, Adobe Photoshop, CorelDraw
+<b>TECHNICAL SKILLS:</b>
 
+<img align="left" alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
 
 - Windows application for the famous BiH youtuber (Nedim Lepic, NTeam), the application is developed for the game GTA 5, where the application checks whether the user has a 'cheat'. The application edits and deletes windows files, ie. chace file from the game itself. The application is designed to be a Launcher and to successfully hide the IP address from the server to prevent DDOS attacks. <b>C# programming language on the .NET platform </b>
 
