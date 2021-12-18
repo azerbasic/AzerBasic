@@ -45,16 +45,16 @@ This code for plugin is available in a folder.
 - https://www.facebook.com/UNFPABiH/posts/3530916433692545
 Technologies used: PHP, Viber rest api
 
-- <b>Animated cartoon:</b> - https://youtu.be/fzP2g61VUZw  ( I made this with my wacom graphic tablet )
+- <b>Animated cartoon:</b> - https://youtu.be/fzP2g61VUZw  ( Created with wacom graphic tablet )
 
-- <b>Production and design of BH souvenirs:</b> https://bhsuvenir.ba/ ( AdobePhotosop, CoralDraw, CNC )
+- <b>Production and design of BH souvenirs:</b> https://bhsuvenir.ba/ ( AdobePhotoshop, CoralDraw, CNC machine etc. )
 
-- <b>Kreativne zvjezdice:</b>  https://kreativnezvjezdice.ba/ ( html, css, js, php ) 
+- <b>Kreativne zvjezdice:</b>  https://kreativnezvjezdice.ba/ ( HTML, CSS, JS, PHP ) 
 
-- <b>All For Truck Web Shop:</b> https://allfortruck.com/  ( Wordpress, woocomerce, custom plugins ) 
+- <b>All For Truck webshop:</b> https://allfortruck.com/  ( WordPress, woocomerce, custom plugins ) 
+This webshop allows a customer to design their product. This was the biggest challenge for me, but now web site is fully complete and has many customers.
 
-- <b>Web page for 1minut production</b> : http://1minut.ba/ ( Wordpress ) 
-
+- <b>Web page for 1minut production</b> : http://1minut.ba/ ( WordPress ) 
 
 <b>I have experience in making video games and creating 3D models.</b>
 - Game development: https://youtu.be/wW5XZ2KoTl0 - Unreal Engine 
