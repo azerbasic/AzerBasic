@@ -4,7 +4,7 @@
 Hey! I'm <b> Azer Bašić</b>. A self-taught developer with an interest in Computer Science. 
 I've been close to a computer since an early age, and been passionate about it ever since.
 
-I really liked to make game servers scripts and modes back in 2010, and from that, I explored how to code myself, fast-forward to today, I do programming in various languages and technologies, and had the privilege to work on projects for UNFPA, RedBull and much more.
+I really liked to make game servers scripts and modes back in 2010, and from that, I explored how to code myself, fast-forward to today, I do programming in various languages and technologies, and had the privilege to work on projects for United Nations Population Fund (UNFPA ), RedBull and much more.
 
 I'm interested in building something awesome with code and automate tasks with code. I'm usually enthusiastic about learning new tech and figuring how things work. I really love to solve problems.
 
@@ -40,7 +40,7 @@ This code for plugin is available in a folder.
 - https://www.lonac.pro/prosirena-stvarnost-za-mir?fbclid=IwAR2NvEk6mxGFPqkXs4Qp1kU1V0TvodlZYs3JvLZwoz305hQ2pyn8f_TQU6U
  Technologies used: Unity
 
-<b>Viber Chatbots (UNFPA) : </b>
+<b>Viber Chatbots United Nations Population Fund (UNFPA): </b>
 - https://www.facebook.com/UNFPABiH/posts/3290182821099242
 - https://www.facebook.com/UNFPABiH/posts/3530916433692545
 Technologies used: PHP, Viber rest api
