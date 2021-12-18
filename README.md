@@ -2,11 +2,11 @@
 
 
 Hey! I'm <b> Azer Bašić</b>. A self-taught developer with an interest in Computer Science. 
-I've been close to a computer since an early age, and been passionate about it ever since.
+I've been close to a computer since an early age and have been passionate about it ever since.
 
-I really liked to make game servers scripts and modes back in 2010, and from that, I explored how to code myself, fast-forward to today, I do programming in various languages and technologies, and had the privilege to work on projects for United Nations Population Fund (UNFPA ), RedBull and much more.
+I liked to make game servers scripts and modes back in 2010, and from that, I explored how to code myself, fast-forward to today, I do programming in various languages and technologies, and had the privilege to work on projects for United Nations Population Fund (UNFPA ), RedBull and much more.
 
-I'm interested in building something awesome with code and automate tasks with code. I'm usually enthusiastic about learning new tech and figuring how things work. I really love to solve problems.
+I'm interested in building something awesome with code and automating tasks with code. I'm usually enthusiastic about learning new tech and figuring how things work. I love to solve problems and work in team.
 
 <b>TECHNICAL SKILLS:</b>
 
@@ -21,16 +21,16 @@ I'm interested in building something awesome with code and automate tasks with c
 &nbsp;
 
 
-- Windows application for the famous BiH youtuber (Nedim Lepic, NTeam), the application is developed for the game GTA 5, where the application checks whether the user has a 'cheat'. The application edits and deletes windows files, ie. chace file from the game itself. The application is designed to be a Launcher and to successfully hide the IP address from the server to prevent DDOS attacks. <b>C# programming language on the .NET platform </b>
+- Windows application for the famous BiH YouTuber (Nedim Lepic, NTeam), the application is developed for the game GTA 5, where the application checks whether the user has a 'cheat'. The application edits and deletes windows files, ie. the cache file from the game itself. The application is designed to be a Launcher and to successfully hide the IP address from the server to prevent DDOS attacks. <b>C# programming language on the .NET platform </b>
 
-- <b>Website for an online concert of Helem Nejse. This app is made for RedBull BiH.</b> The site is designed for the user to enter the code from the RedBull can and get a ticket for a virtual concert. Also the user has to log in with his steam account to get his data as the concert will be held on GTA 5 server.
+- <b>Website for an online concert of Helem Nejse. This app is made for RedBull BiH.</b> The site is designed for the user to enter the code from the RedBull can and get a ticket for a virtual concert. Also, the user has to log in with his steam account to get his data as the concert will be held on GTA 5 server.
 </b>Technologies used: PHP, MYSQL, HTML</b>
 
 
 - <b>Web and mobile app for veterinary stations.</b> The project is also supported by the Federal Ministry. The goal is for veterinarians to enter information on the field (finding, diagnosis) via a mobile application and that informations are stored in the database. From that database information is shared on the website from where the vet. station can retrieve pre-generated documents required for inspection, etc.
 <b>Technologies used: Flutter - Dart, PHP, HTML, CSS, MYSQL</b>
 
-- <b> Wordpress custom plugin </b>for searching stores in a radius selected by the user with information about Country,State and ZIP/Postal code. The plugin uses google map api for geocoding.
+- <b> WordPress custom plugin </b>for searching stores in a radius selected by the user with information about Country, State and ZIP/Postal code. The plugin uses Google Map API for geocoding. The biggest problem for me was how to implement a function for searching the nearest stores. So, I slove that by using the Haversine formula.
 This code for plugin is available in a folder.
 <b>Technologies used: PHP Object-Oriented Programming (OOP) for WordPress, JavaScript, Google Maps API</b>
 
