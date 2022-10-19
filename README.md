@@ -39,10 +39,6 @@ This code for plugin is available in a folder.
 - https://www.lonac.pro/prosirena-stvarnost-za-mir?fbclid=IwAR2NvEk6mxGFPqkXs4Qp1kU1V0TvodlZYs3JvLZwoz305hQ2pyn8f_TQU6U
  Technologies used: Unity <b>Work time: 4months.</b>
 
-<b>Viber Chatbots United Nations Population Fund (UNFPA): </b>
-- https://www.facebook.com/UNFPABiH/posts/3290182821099242
-- https://www.facebook.com/UNFPABiH/posts/3530916433692545
-Technologies used: PHP, Viber rest api
 
 - <b>Animated cartoon:</b> - https://youtu.be/fzP2g61VUZw  ( Created with wacom graphic tablet )
 
